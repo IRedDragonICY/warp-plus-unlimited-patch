@@ -22,11 +22,11 @@ Warp-Plus-Unlimited-Patch is a Python script that automates the registration pro
 The script requires the following:
 
 - Python 3.6 or above
-- Cloudflare Warp VPN
+- [Cloudflare Warp VPN](https://1111-releases.cloudflareclient.com/windows/Cloudflare_WARP_Release-x64.msi)
 
 ## Installation
 
-Download the latest version of the script from the [releases page](#).
+Download the latest version of the script from the [releases page](https://github.com/IRedDragonICY/warp-plus-unlimited-patch/releases/tag/v1.0.0).
 
 ## Usage
 

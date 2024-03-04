@@ -1,7 +1,10 @@
 # Warp-Plus-Unlimited-Patch
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://github.com/IRedDragonICY/warp-plus-unlimited-patch/assets/98265563/a94fb539-85d2-413c-89d2-29e82b67f42d">
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
 </div>
 
 Warp-Plus-Unlimited-Patch is a Python script that automates the registration process of the Cloudflare Warp VPN service. 
